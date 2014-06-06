@@ -28,8 +28,13 @@ header {
 
 #blogHead {
 	position: relative;
-	text-align: center;
+	margin: 0px auto;
+	margin-top: 200px;
+	text-align:center;
 	border: 2px solid blue;
+	color: white;
+	font-size: 5em;
+	font-family: 'PT Sans', sans-serif;
 }
 
 #bodyLeft {
