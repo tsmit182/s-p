@@ -21,7 +21,7 @@ header {
 	float:right;
 	text-decoration: none;
 	color: #083451;
-	margin-right: 30px;
+	margin-right: 20px;
 	margin-top: 2.2%;
 	font-size: 17px;
 	font-style: bold;
@@ -32,7 +32,7 @@ header {
 	float:right;
 	text-decoration: none;
 	color: #083451;
-	margin-right:12.5%;
+	margin-right:12%;
 	margin-top: 2%;
 	font-size: 17px;
 	font-style: bold;
@@ -77,6 +77,16 @@ header {
 	border: 2px solid blue;
 	position:absolute;
 	margin-top: 523px;
+}
+
+h1 {	
+	font-family: 'Oswald' sans-serif;
+	font-style: bold;
+	color: #0B3551;
+}
+
+blockquote {
+	border-left: 2px solid #;
 }
 
 #bodyRight {
