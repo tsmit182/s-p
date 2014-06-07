@@ -10,6 +10,18 @@ header {
 	float: top;
 }
 
+a:hover {
+
+}
+
+a:link {
+
+}
+
+a:visited{
+	
+}
+
 #blogLogo {
 	z-index:1;
 	position: absolute;
@@ -83,6 +95,12 @@ h1 {
 	font-family: 'Oswald' sans-serif;
 	font-style: bold;
 	color: #0B3551;
+}
+
+p {
+	text-align: left;
+	font-family: 'PT Sans'; sans-serif;
+	color: #5E686F;
 }
 
 blockquote {
