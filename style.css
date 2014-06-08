@@ -104,8 +104,12 @@ p {
 }
 
 blockquote {
-	border-left: 2px solid #;
+	border-left: 2px solid #D3D3D3;
+	padding-left: 8px;
+	font-size: 2em;
+	color: #196FB1;
 }
+
 
 #bodyRight {
 	float:right;
