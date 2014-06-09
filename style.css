@@ -128,8 +128,8 @@ blockquote {
 
 #bodyRight {
 	float:right;
-	width: 25%;
-	height: 500px;
+	width: 278px;
+	/*height: 500px;*/
 	margin-right: 10%;
 	border: 2px solid blue;
 	position: relative;
@@ -143,10 +143,29 @@ blockquote {
 
 #anneMarie {
 	text-decoration: none;
-	color: ;
+	color: #4886bd;
 	margin: auto 0;
+	font-family: 'PT Sans' sans-serif;
 }
 
 .socMedLink {
 	text-decoration: none;
+	font-family: 'PT Sans' sans-serif;
+	font-size: .75em;
+	font-style: bold;
+	color: #a2b2bd;
 }
+
+#ad {
+	padding-top: 15%;
+}
+
+#aboutAd {
+	font-style:underline;
+	float:right;
+	font-size: .60em;
+	color:;
+	padding-top: 2%;
+}
+
+
