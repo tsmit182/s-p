@@ -73,17 +73,21 @@ a:visited{
 	position: relative;
 	margin: 0px auto;
 	margin-top: 200px;
+	margin-bottom: 0px;
 	text-align:center;
 	/*border: 2px solid blue;*/
 	color: white;
 	text-shadow: #083451 .01em .01em .01em;
-	font-size: 6em;
+	font-size: 6.35em;
 	font-family: 'PT Sans', sans-serif;
 }
 
 #headSub {
 	text-align: center;
 	color: #083451;
+	font-family: 'PT Sans' sans-serif;
+	font-style: bold;
+	padding-top: -.5%;
 }
 
 #bodyLeft {
@@ -102,6 +106,24 @@ a:visited{
 	font-style: none;
 	font-size: 3.65em;
 	color: #0B3551;
+}
+
+#aMName {
+	text-decoration: none;
+	font-family: 'PT Sans' sans-serif;
+	font-size:.8em;
+}
+
+#on {
+	text-decoration:none;
+	color:;
+}
+
+#date {
+	text-decoration: none;
+	font-family: 'PT Sans' sans-serif;
+	color: #bac6cf;
+	font-size:.8em;
 }
 
 #avatarSmall {
@@ -125,18 +147,23 @@ blockquote {
 	font-family: 'PT Sans' sans-serif;
 }
 
+#comLink {
+	color: ;
+}
+
 
 #bodyRight {
 	float:right;
 	width: 278px;
 	/*height: 500px;*/
 	margin-right: 10%;
-	border: 2px solid blue;
+	/*border: 2px solid blue;*/
 	position: relative;
 	margin-top: 523px;
 }
 
 #avatarLarge {
+	padding-left:33%;
 	padding-top: 17%;
 	margin: 0 auto;
 }
@@ -146,6 +173,11 @@ blockquote {
 	color: #4886bd;
 	margin: auto 0;
 	font-family: 'PT Sans' sans-serif;
+	padding-left: 30%;
+}
+
+#socMed {
+	color: #bac6cf;
 }
 
 .socMedLink {
@@ -153,7 +185,8 @@ blockquote {
 	font-family: 'PT Sans' sans-serif;
 	font-size: .75em;
 	font-style: bold;
-	color: #a2b2bd;
+	color: #bac6cf;
+	padding-left: 12%
 }
 
 #ad {
@@ -163,9 +196,43 @@ blockquote {
 #aboutAd {
 	font-style:underline;
 	float:right;
+	position:relative;
 	font-size: .60em;
-	color:;
+	color: #bac6cf;
 	padding-top: 2%;
+	font-family: 'PT Sans' sans-serif;
 }
 
+#sidebarHead {
+	color: #4886bd;
+}
+
+#sidebarText {
+	color: #bac6cf;
+	font-size:.90em;
+}
+
+#bodyFooter {
+	border-top: 2px solid #D3D3D3;
+	border: 1px solid blue;
+	color:black;
+	float:none;
+}
+
+#footerHeader {
+	color:black;
+	width: 100%;
+}
+
+a:link {
+	color: #4886bd;
+}
+
+a:hover {
+	color:;
+}
+
+a:visited {
+	color:;
+}
 
