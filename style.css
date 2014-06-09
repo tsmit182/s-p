@@ -98,7 +98,8 @@ h1 {
 }
 
 #smallAvatar {
-	
+	height: 20px;
+	width: 20px;
 }
 
 p {
