@@ -88,36 +88,41 @@ a:visited{
 
 #bodyLeft {
 	float:left;
-	width: 40%;
-	height: 500px;
+	width: 50%;
+	/*height: 500px;*/
 	margin-left: 10%;
-	border: 2px solid blue;
+	/*border: 2px solid blue;*/
 	position:absolute;
 	margin-top: 523px;
+	padding-top: 4%;
 }
 
-h1 {	
+#fantHead {	
 	font-family: 'Oswald' sans-serif;
 	font-style: bold;
+	font-size: 3.65em;
 	color: #0B3551;
 }
 
 #smallAvatar {
 	height: 20px;
 	width: 20px;
+	padding-top: 0px;
 }
 
 p {
 	text-align: left;
-	font-family: 'PT Sans'; sans-serif;
+	font-family: 'PT Sans' sans-serif;
 	color: #5E686F;
 }
 
 blockquote {
 	border-left: 2px solid #D3D3D3;
 	padding-left: 2%;
-	font-size: 2em;
+	padding-top: 1.5%;
+	font-size: 1.75em;
 	color: #196FB1;
+	font-family: 'PT Sans' sans-serif;
 }
 
 
